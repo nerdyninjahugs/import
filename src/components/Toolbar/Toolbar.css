@@ -1,0 +1,48 @@
+.toolbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #d9a8b9;
+    height: 56px;
+    
+}
+
+
+.toolbar__navigation{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    padding: 0 2rem;
+}
+
+
+
+.toolbar__navigation-items ul{
+    list-style: none;
+    margin-top: 0.5;
+    padding: 0;
+    display: flex;
+
+}
+
+.spacer{
+    flex:1;
+}
+
+.toolbar__navigation-items li{
+    padding: 0 0.5rem;
+    
+}
+
+
+
+.SearchBar {
+
+    padding-left: 100px;
+    border-bottom: 2px solid blue;
+    padding: 100px;
+  }
+
+
+
